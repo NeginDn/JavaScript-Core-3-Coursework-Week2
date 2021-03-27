@@ -1,4 +1,4 @@
-# Dog photo gallery
+ # Dog photo gallery
 
 Let's make a randomized dog photo gallery!
 
